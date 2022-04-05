@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 
 ![指令集](https://wzpan-1253537070.cos.ap-guangzhou.myqcloud.com/misc/commands.jpeg)
 
-> tips：如果你有其他常用的交互语句，当然也可以添加到指令集里。这些指令会把去掉第一个 `/` 后的内容原封不动地传给 wukong-robot 进行交互。
+> tips：如果你有其他常用的交互语句，当然也可以添加到指令集里。这些指令被去掉第一个 `/` 后的内容会被原封不动地传给 wukong-robot 进行交互。
 
 ## 配置机器人
 
