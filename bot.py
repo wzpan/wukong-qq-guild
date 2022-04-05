@@ -106,7 +106,7 @@ async def switch_off_do_not_bother(param: str, event: str, message: qqbot.Messag
     r = requests.post(OP_URL, data=param)
     r.encoding = "utf-8"
     try:
-        resp = r.json()["resp"]
+        resp = r.json()["message"]
         await _send_message("wukong: %s" % (resp), event, message)
     except Exception as e:
         qqbot.logger.error(e) 
