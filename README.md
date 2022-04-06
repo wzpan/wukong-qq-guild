@@ -40,4 +40,4 @@ python3 bot.py
 ```
 ## 使用
 
-与 wukong-robot 聊天，文本或者语音都将会作为指令转发给 wukong-robot 的后台管理端。
+在你的频道里 at 机器人，或者私信这个机器人进行交互。
