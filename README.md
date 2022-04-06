@@ -2,14 +2,6 @@
 
 [wukong-robot](http://github.com/wzpan/wukong-robot) 的 QQ 频道机器人客户端。利用这个机器人，可以实现使用 QQ 频道机器人控制 wukong-robot 。
 
-## demo
-
-使用 QQ 扫码加入 wukong-robot 用户交流频道，然后在 🤖一起玩Bot 子频道里体验 wukong-robot 机器人。
-
-![](https://wzpan-1253537070.cos.ap-guangzhou.myqcloud.com/misc/wukong-guild-qrcode.png)
-
-> 注意：demo 机器人的后端连接的是 wukong-robot 的 [demo 后台](http://bot.hahack.com:5000)，因此将无法正常体验拍照、播放音乐的功能。建议自行部署以获得更好的体验。
-
 ## 安装
 
 1. 先安装 wukong-robot 并运行，确保 wukong-robot 的版本 >= 2.4.4；
